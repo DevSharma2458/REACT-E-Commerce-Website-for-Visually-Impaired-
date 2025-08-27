@@ -19,7 +19,10 @@ This project integrates voice assistance, screen-reader compatibility, and keybo
 
 📂 Project Setup
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-npm install --legacy-peer-deps
-npm start
+1-git clone https://github.com/your-username/your-repo-name.git
+
+2-cd your-repo-name
+
+3-npm install --legacy-peer-deps
+
+4-npm start
